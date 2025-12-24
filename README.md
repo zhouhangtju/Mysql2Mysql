@@ -1,3 +1,3 @@
 # safety
 
-安全后端
+读取mysql告警数据入mysql
